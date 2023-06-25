@@ -12,10 +12,12 @@ REGOLE
 */
 
 /* I DATATYPE SONO NUMBER, STRING, BOOLEANO, NULL, UNDEFINED, bigInt e Symbol.
-Number raprresenta i numeri interi e decimali.
+Number rappresenta i numeri interi e decimali.
 Le stringhe rappresentano tutti i contenuti che sono delimitati da una single quote, double quote o backtick.
 I booleans servono a stabilire se l'entità è vera o falsa.
 Null rappresente un contenitore vuoto mentre Undefined rappresenta un contenitore a cui non è stato ancora assegnato un valore.
+BigInt rappresenta tutti i numeri interi che non possono essere rappresentati dal valore primitivo number. 
+
 
 */
 
